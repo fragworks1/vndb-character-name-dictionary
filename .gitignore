@@ -1,0 +1,6 @@
+# local only: build scripts, build by-products, internal notes, README preview
+build/
+audit/
+AGENTS.md
+.preview/
+__pycache__/
